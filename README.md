@@ -18,7 +18,7 @@ Based on the election data, below are the outcomes.
   * Winning Candidate: Diana DeGette
    * Winning Vote Count: 272,892
    * Winning Percentage: 73.8%
-  ![Results]()
+  ![Results](Election Analysis Results.PNG)
   
 ## Election-Audit Summary
 To use for any election, this code can be modified to include states or other geographic aesethetics. Additionally, the code can be edited to arrange the candidates in descending order by their vote counts so the audience can see who is in the running to win!
