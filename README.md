@@ -4,6 +4,16 @@
 The purpose of the Election Audit is to determine voter and geographical information for an election held in Colorado. The key metrics will be addressed in the following section.
 
 ## Results
+Below, is the Python code to print out the voter turnout. 
+    '# Print the final vote count (to terminal)
+    election_results = (
+        f"\nElection Results\n"
+        f"-------------------------\n"
+        f"Total Votes: {total_votes:,}\n"
+        f"-------------------------\n\n"
+        f"County Votes:\n")
+    'print(election_results, end="")
+    
 Based on the election data, below are the outcomes.
 * Total Votes: 369,711
 * County Votes:
