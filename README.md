@@ -14,7 +14,6 @@ Below, is the Python code to print out the voter turnout.
         f"-------------------------\n\n"
         f"County Votes:\n")
     print(election_results, end="")
-'''
 
 ### Python Output
 Based on the election data, below are the outcomes.
