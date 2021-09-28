@@ -5,15 +5,18 @@ The purpose of the Election Audit is to determine voter and geographical informa
 
 ## Results
 Below, is the Python code to print out the voter turnout.
-'''# Print the final vote count (to terminal)
+'''
+### Python Input
     election_results = (
         f"\nElection Results\n"
         f"-------------------------\n"
         f"Total Votes: {total_votes:,}\n"
         f"-------------------------\n\n"
         f"County Votes:\n")
-'''print(election_results, end="")
-    
+    print(election_results, end="")
+'''
+
+### Python Output
 Based on the election data, below are the outcomes.
 * Total Votes: 369,711
 * County Votes:
