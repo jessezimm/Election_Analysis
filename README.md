@@ -5,7 +5,7 @@ The purpose of the Election Audit is to determine voter and geographical informa
 
 ## Results
 Below, is the Python code to print out the voter turnout.
-'''
+
 ### Python Input
     election_results = (
         f"\nElection Results\n"
